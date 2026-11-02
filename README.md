@@ -1,6 +1,6 @@
 # Hi, I'm Praneeth Korukonda 👋
 
-Data scientist in Boston working on **A/B testing, causal inference and marketing measurement**.
+Data scientist working on **A/B testing, causal inference and marketing measurement**.
 My projects ask one question, *did it actually cause that?*, and check every method against a
 known answer before trusting it on real data.
 
